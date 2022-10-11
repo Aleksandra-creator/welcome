@@ -9,3 +9,5 @@ And now we do conflict in our file
 And now! *We pull text from virtual repository*
 
 And now we are doing another command in GitHub and we pull this text in out local repository 
+
+## Add head 
